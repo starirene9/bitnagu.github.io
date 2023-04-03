@@ -95,7 +95,7 @@ const cardGenerator = () => {
             card.classList.remove('flipped');
             setTimeout(() => card.classList.remove('toggleCard'), 1000);
           });
-          playerLives--;
+          playerLives--;가ㅁ사
           // console.log(playerLives);
           // console.log(playerLivesCount);
           playerLivesCount.textContent = playerLives;
